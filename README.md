@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/twitter" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Database Management Systems**
 
 - 👨‍💻 All of my projects are available at [andretoogood.github.io/intro](andretoogood.github.io/intro)
 
